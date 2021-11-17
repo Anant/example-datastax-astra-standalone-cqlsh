@@ -1,0 +1,4 @@
+tasks:
+  - name: CQLSH
+    command: bash startup.sh
+    openMode: tab-after
