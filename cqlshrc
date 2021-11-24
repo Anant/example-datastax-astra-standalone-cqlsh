@@ -1,0 +1,6 @@
+[authentication]
+username = clientId
+password = clientSecret
+
+[connection]
+secure_connect_bundle = secureConnectBundlePath
