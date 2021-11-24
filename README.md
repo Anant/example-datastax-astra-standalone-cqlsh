@@ -43,3 +43,4 @@ mv cqlshrc ~/.cassandra
 ## Next Actions
 - Add ability to read from ENV vars
 - Improve process for cqlshrc method
+- Pivot to connect to Scylla Cloud, AWS Keyspaces, Azure Cosmos DB, etc
